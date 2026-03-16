@@ -1,15 +1,2 @@
-cat > requirements.txt << 'EOF'
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
-imbalanced-learn
-fastapi
-uvicorn
-pydantic
-joblib
-jupyter
-ipykernel
-EOF
+streamlit
+requests
