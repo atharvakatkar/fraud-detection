@@ -187,6 +187,6 @@ Python, XGBoost, Scikit-Learn, imbalanced-learn, FastAPI, Pydantic, Streamlit, D
 ## Author
 
 **Atharva Katkar**
-[GitHub](https://github.com/atharvakatkar) | [LinkedIn](www.linkedin.com/in/ankatkar)
+[GitHub](https://github.com/atharvakatkar) | [LinkedIn](https://www.linkedin.com/in/ankatkar)
 
 *Data Science Student — Macquarie University*
