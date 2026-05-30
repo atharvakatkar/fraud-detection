@@ -1,12 +1,5 @@
 # 🔍 Fraud Detection System
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red)](https://financial-risk-analyser.streamlit.app)
-[![Live API](https://img.shields.io/badge/Live%20API-Render-brightgreen)](https://fraud-detection-api-tg28.onrender.com)
-[![API Docs](https://img.shields.io/badge/API%20Docs-Swagger-orange)](https://fraud-detection-api-tg28.onrender.com/docs)
-[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
-[![XGBoost](https://img.shields.io/badge/Model-XGBoost-red)](https://xgboost.readthedocs.io/)
-[![Docker](https://img.shields.io/badge/Container-Docker-2496ED)](https://www.docker.com/)
-
 A real-time fraud detection system built with XGBoost, served via a FastAPI endpoint, containerised with Docker, and deployed on Render. Includes an internal analyst-facing Streamlit interface for transaction risk assessment.
 
 🔗 **[Live Analyst Tool](https://financial-risk-analyser.streamlit.app)**
